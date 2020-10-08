@@ -1,0 +1,20 @@
+Element	        Value	                                                Value Standard
+dc.title        Elk at Pinnacle Mountain	                            Free text
+dc.creator	    Johanningmeier, Robert	                              LCNAF
+dc.subject	    Landscape painting	                                  LCSH
+dc.description	Elk grazing in the foreground near pine trees with    Free text
+                Pinnacle Mountain in the distance. Date unknown. 
+                 “Stock No. 51459” on canvas reverse.
+dc.publisher		
+dc.contributor		
+dc.date		
+dc.type	        StillImage	                                          DCMI Type Vocabulary
+dc.format	      oil painting on canvas	                              AAT
+dc.identifier	  #260	                                                Free text
+dc.source	      Wiscsonsin Lutheran Seminary Library art collection	  Free text
+dc.language		
+dc.relation		
+dc.coverage	    Pinnacle Mountain (Alberta)	                          Canadian Geographical Names Database
+dc.rights	      Copyright Robert Johanningmeier	                      Free text
+
+As a physical object with limited description available, some of the DC elements did not apply or could not be determined.
