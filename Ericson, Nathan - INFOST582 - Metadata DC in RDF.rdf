@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+<rdf:Description rdf:about="Painting.260">
+    <dc:title>Elk at Pinnacle Mountain</dc:title>
+    <dc:creator>Johanningmeier, Robert</dc:creator>
+    <dc:subject rdf:type="dcterms.LCSH">Landscape painting</dc:subject>
+    <dc:description>Elk grazing in the foreground near pine trees, with Pinnacle Mountain in the distance. Date unknown. "Stock #51459" on canvas reverse.</dc:description>
+    <dc:type rdf:type="dcterms.DCMITYPE">StillImage</dc:type>
+    <dc:format>oil painting on canvas</dc:format>
+    <dc:identifier>#260</dc:identifier>
+    <dc:source>Wisconsin Lutheran Seminary Library art collection</dc:source>
+    <dc:coverage>Pinnacle Mountain (Alberta)</dc:coverage>
+    <dc:rights>Copyright Robert Johanningmeier</dc:rights>
+</rdf:Description>
+<!--Note 1: This description is for a painting in my office. Some DC elements do not apply or are unknown given the lack of description on the item.
+Some elements are based on authorities that do not have DC types such as dc:creator (LCNAF), dc:format (AAT), and dc:coverage (Canadian Geographical
+Names Database; it doesn't seem to exist in TGN).-->
+<!--Note 2: The RDF validator wants the rdf: in front of the type property, and doesn't like something in general about the expression as given in
+the class examples.-->
+</rdf:RDF>

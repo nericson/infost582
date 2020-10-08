@@ -1,0 +1,16 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "name": "Triple jeopardy: The Muus vs. Muus case in three forums",
+  "author":{
+	"@type": "Person",
+	"address": "10138 Sunrise Way, Cannon Falls MN 55009-4140",
+	"email": "mailto:kmericson@frontiernet.net",
+	"name": "Kathryn Ericson"
+	},
+  "abstract": "Women’s rights, domestic cruelty, civil vs. religious authority, friction between recent immigrants and earlier arrivals--contentious topics that light up today’s social media streams. The lawsuit brought by Oline Muus against her husband Bernt, both Norwegian immigrants, illuminate how these issues played out 140 years ago.",
+  "datePublished": "1987",
+  "isPartOf": "https://www.mnhs.org/market/mhspress/minnesotahistory/xml/v50i08.xml",
+  "pageStart": "298",
+  "pageEnd": "308"
+  }
